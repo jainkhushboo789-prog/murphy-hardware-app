@@ -1,0 +1,17 @@
+{
+  "id": "./",
+  "name": "Murphy Hardware & Auto Parts",
+  "short_name": "Murphy Shop",
+  "description": "Bilingual shop management for sales, stock, payments and expenses",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f4f7fb",
+  "theme_color": "#102544",
+  "lang": "en-IN",
+  "icons": [
+    {"src":"./icons/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+    {"src":"./icons/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
